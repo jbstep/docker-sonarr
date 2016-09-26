@@ -19,7 +19,7 @@ Build from docker file
 
 ```
 git clone git@github.com:jbstep/docker-sonarr.git
-cd docker-sonarr-alpine
+cd docker-sonarr
 docker build --pull --rm -t jbstep/sonarr .
 ```
 
