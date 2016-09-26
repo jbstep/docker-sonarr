@@ -18,7 +18,7 @@ If you would like to build the image yourself
 Build from docker file
 
 ```
-git clone git@github.com:timhaak/docker-sonarr-alpine.git
+git clone git@github.com:jbstep/docker-sonarr-alpine.git
 cd docker-sonarr-alpine
 docker build --pull --rm -t jbstep/sonarr-alpine .
 ```
