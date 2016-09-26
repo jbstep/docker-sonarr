@@ -11,7 +11,7 @@ docker run \
      -p 8989:8989 \
      jbstep/sonarr
      
-Then open http://<server>:8989/
+Then open http://yourserver:8989/
 
 If you would like to build the image yourself
 
