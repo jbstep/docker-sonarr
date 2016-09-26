@@ -1,6 +1,6 @@
-# docker sonarr
+# docker Sonarr
 
-Dockerfile to set up "sonarr" - (https://sonarr.tv/)
+Dockerfile to set up Sonarr - [Website](https://sonarr.tv/)
 
 docker run \
     --restart=always \ 
